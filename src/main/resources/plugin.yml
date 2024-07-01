@@ -1,0 +1,4 @@
+name: AsteraKeepInventory
+version: '${project.version}'
+main: me.polonium.asterakeepinventory.AsteraKeepInventory
+api-version: '1.20'
